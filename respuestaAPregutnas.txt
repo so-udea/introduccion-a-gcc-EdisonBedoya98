@@ -1,0 +1,7 @@
+Respuestas Punto 2
+¿Que hacen los parametros argc y argv?
+El parametro argc cumple la funcion de contener el tamaño de parametros que contiene la linea de comando que se le pasa al ejecutable.
+El parametro argv, es el vector que contiene cada palabra pasada como argumento del ejecutable
+
+¿Como se usa el programa? 
+A partir del código proporcionado se crea un ejecutable, luego de esto, se procede a correr el ejecutable con sus correspondientes parametros. la ejecucion se realiza copiando ./<nombre del ejecutable> <String> -file <File name>
