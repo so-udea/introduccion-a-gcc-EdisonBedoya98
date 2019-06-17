@@ -5,3 +5,18 @@ El parametro argv, es el vector que contiene cada palabra pasada como argumento 
 
 ¿Como se usa el programa? 
 A partir del código proporcionado se crea un ejecutable, luego de esto, se procede a correr el ejecutable con sus correspondientes parametros. la ejecucion se realiza copiando ./<nombre del ejecutable> <String> -file <File name>
+
+Respuestas punto 3
+¿Que hace la funcion atoi?
+Convierte una cadena de caracteres en un entero
+
+Ademas de atoi existen otras funciones que permitan convertir cadenas de caracteres a numeros reales ¿cuales?
+atof conversión de string a double
+atol conversión de string a long
+strtod conversión de string double
+strtol conversión de string a long
+strtoul conversión de string a unsigned long
+
+Existen funciones que convierten valores numericos a cadenas de caracteres ¿cuales?
+itoa
+sprintf
